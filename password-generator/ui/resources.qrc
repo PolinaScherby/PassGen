@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/refresh-30.png</file>
+    <file>icons/copy-64.png</file>
+    <file>icons/invisibility-64.png</file>
+    <file>icons/visibility-64.png</file>
+    <file>icons/lock-64.png</file>
+    <file>icons/key.ico</file>
+  </qresource>
+</RCC>
